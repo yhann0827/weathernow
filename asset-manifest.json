@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weathernow/static/css/main.1d38fed7.css",
+    "main.js": "/weathernow/static/js/main.0e7718ed.js",
+    "static/media/cold.jpg": "/weathernow/static/media/cold.3f7f52e634c570dfb301.jpg",
+    "static/media/hot.jpg": "/weathernow/static/media/hot.f5799ace3c286e0ef907.jpg",
+    "index.html": "/weathernow/index.html",
+    "main.1d38fed7.css.map": "/weathernow/static/css/main.1d38fed7.css.map",
+    "main.0e7718ed.js.map": "/weathernow/static/js/main.0e7718ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d38fed7.css",
+    "static/js/main.0e7718ed.js"
+  ]
+}
